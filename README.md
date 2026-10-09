@@ -4,7 +4,7 @@
 
 Personal site in Serbian and English for a Sydney real estate agent who also helps owners abroad with property in Belgrade.
 
-**[bre.rs](https://bre.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/milan-vlasic) · [Srpski](README.sr.md)
+**[bre.rs](https://bre.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/milan-vlasic) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ I put the current times in Sydney and Belgrade on that screen, with the gap betw
 | Mobile | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `RealEstateAgent`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `RealEstateAgent`.
 
 ## Screenshots
 
